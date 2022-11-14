@@ -52,6 +52,13 @@ In RegEx this is an optional step and there are 6 types:
  `/m multi line`
  `/y sticky search`
  `/u unicode`
-
+ 
+These are to modify what the regex is searching for in a given pattern and in a email regex this step may not be needed for what you are looking for unless you would like the option of ignoring character casing in a email.
  ### Bracket Expression
- Bracket expressions are used to determine parameters. In this RegEx it is used to determine the range of letters and numbers.
+ Bracket expressions are used to determine a set of charaters or to match multi-character collating elements. In this RegEx it is used to determine the range of letters and numbers and you can see in Character Classes how brackets are used.
+
+ ## Author
+
+My name is Britania Moreno and I am an IT student in Pasco, Wa. I don't have a favorite part about coding, I just like to code and see the code I write work. I hope this tutorial was helpful!
+
+Link to my GitHub: https://github.com/BriMoreno
